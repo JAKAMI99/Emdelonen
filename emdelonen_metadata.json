@@ -1,9 +1,9 @@
 {
   "name": "Emdelonen Token", 
   "symbol": "EMDE",
-  "uri": "TOKEN_URI",
+  "uri": "https://raw.githubusercontent.com/JAKAMI99/Emdelonen/main/emdelonen_token_uri.json",
   "sellerFeeBasisPoints": 0,
   "creators": "JAKAMI99",
   "collection": null,
-  "uses": "null"
+  "uses": null
 }
