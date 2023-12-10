@@ -1,0 +1,9 @@
+{
+  "name": "Emdelonen Token", 
+  "symbol": "EMDE",
+  "uri": "TOKEN_URI",
+  "sellerFeeBasisPoints": 0,
+  "creators": "JAKAMI99",
+  "collection": null,
+  "uses": "null"
+}
